@@ -10,3 +10,5 @@ You shouldn't have to change anything, but if something happens the steps to res
 4. Drag the circutpython image to the device(find online)
 5. Drag the code to the device, making sure the files are in the root directory
 6. Voila
+
+The cad files for the board are in the branch Cad-Files
